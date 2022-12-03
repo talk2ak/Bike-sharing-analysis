@@ -1,4 +1,6 @@
 # Data Analyst Poject Porfolio
+Contains SQL queries and Python codes for Data Analysis
 
-Performing Data Wrangling, Data cleaning and Exploratory Data Analysis(EDA) and finally building Predictive models on various Data sets. Data was obtained from various sources. Projects were performed for self learning purposes.
+MySQL workbench for Data Querieng
 
+Python libraries like NumPy, Pandas and Matplotlib for performing Data cleaning and Exploratory Data Analysis(EDA). Finally Scikitlearn for building Predictive models. 
