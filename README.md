@@ -1,6 +1,3 @@
-# Data Analyst Poject Porfolio
-Contains SQL queries and Python codes for Data Analysis
+# Data Analyst Project Porfolio
 
-MySQL workbench for Data Querieng
-
-Python libraries like NumPy, Pandas and Matplotlib for performing Data cleaning and Exploratory Data Analysis(EDA). Finally Scikitlearn for building Predictive models. 
+This repository contains projects related to data analysis in MS Excel, SQL, Power BI, Python, Tableau. 
